@@ -1,0 +1,11 @@
+{
+    "name": "siscrad/tables",
+    "description": "html5 table generator",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Siscrad\\Tables\\": "src/"
+        }
+    }
+}
