@@ -2,7 +2,7 @@
 /**
  * Desc
  *
- * @author Heiko Griga <h.griga@teilehaber.de>
+ * @author Heiko Griga
  * @date   22.08.2018, 12:28
  */
 
